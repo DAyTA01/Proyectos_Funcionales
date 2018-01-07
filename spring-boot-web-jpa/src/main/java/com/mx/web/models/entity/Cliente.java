@@ -17,7 +17,7 @@ import javax.persistence.TemporalType;
 public class Cliente implements Serializable {
 
 	private static final long serialVersionUID = 1L;
-
+//nuevo
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 

@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringBootWebJpaApplication {
 
 	public static void main(String[] args) {
+		//otro
 		SpringApplication.run(SpringBootWebJpaApplication.class, args);
 	}
 }
